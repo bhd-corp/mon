@@ -1,0 +1,124 @@
+body {
+	/*background: #EEC601;*/
+	padding: 0;
+	margin: 0;
+	background: #000;
+	font-family: "Poppins";
+}
+h1 {
+	color: #EEC601;
+	text-align: center;
+	font-size: 200px;
+	background: #000;
+	margin: auto;
+	position: relative;top: -45px;
+	width: 100%;
+	font-family: "Poppins";
+	letter-spacing: ;
+	height: 250px;
+}
+h2 {
+	font-size: 200px;
+	margin: auto;
+	text-align: center;
+	position: relative;top: 200px;
+}
+#bhd {
+	color: #fff;
+	font-size: 150px;
+	position: relative;top: 600px;
+	animation: wer 5s linear;
+}
+@keyframes wer {
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}
+i {
+	font-size: 160px;
+	position: fixed;top: 1157px;
+	text-align: center;
+	left: 360px;
+	margin: auto;
+}
+#medal {
+	font-size: 130px;
+	position: fixed;top: 1159px;
+	left: 750px;
+}
+h3 {
+	font-size: 60px;
+	height: 1px;
+	font-family: "Poppins";
+}
+#left {
+	position: fixed;left: 100px;
+	font-size: 140px;
+	top: 1150px;
+}
+.play {
+	display: none;
+}
+
+.menu h2 {
+	border: 10px solid #000;
+}
+.nav {
+	display: none;
+	position: fixed;
+}
+#p {
+	position: relative;top: 200px;
+	font-size: 130px;
+	width: 800px;
+}
+#top {
+	position: relative;top: 300px;
+	font-size: 130px;
+	width: 800px;
+}
+#set {
+	position: relative;top: 400px;
+	font-size: 130px;
+	width: 800px;
+}
+
+h4 {
+	margin: auto;text-align: center;
+	font-size: 50px;
+	position: relative;top: 600px;
+}
+#luck {
+	position: relative;top: 200px;
+}
+
+.topp {
+	display: none;
+}
+.topp h4 {
+	color: #000;
+	font-size: 100px;
+	position: relative;top: 170px;
+}
+.topp i {
+	position: fixed;left:420px;
+}
+.logo {
+	display: none;
+}
+.price h4 {
+	position: relative;top: 50px;
+	font-size: 110px;
+}
+.price h1 {
+	position: fixed;
+}
+.price {
+	display: none;
+}
